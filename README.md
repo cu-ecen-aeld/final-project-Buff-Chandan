@@ -21,3 +21,7 @@ In this project I intend to learn about:
 2. Gain hands-on practice on Beaglebone Black board to build the project on buildroot.
 3. Intergate the sensor based on I2C protocol.
 4. Display the readings of the sensor on the console. 
+
+# Block Diagram
+
+![Alternate Text](AESD PROJ BLK.png)
