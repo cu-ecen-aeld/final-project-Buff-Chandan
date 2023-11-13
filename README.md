@@ -5,5 +5,6 @@
 
 # Team Members
 I intend to work solo on this project.
+Chandan Mohanta (chandan.mohanta@colorado.edu)
 
 # Project Schedule
