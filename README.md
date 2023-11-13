@@ -25,3 +25,16 @@ In this project I intend to learn about:
 # Block Diagram
 
 ![AESD PROJ BLK](https://github.com/cu-ecen-aeld/final-project-Buff-Chandan/assets/113010098/26138e51-c1e5-4912-8e8c-7995eb897a3c)
+
+# Targeted Build System
+I  intend to use Buildroot build system to implement the project.
+
+# Hardware Platform
+1. Beaglebone Black
+2. SHT 21 sensor
+3. HTU 21 sensor
+
+# Open Source Projects Used
+I am still exploring means and methods.
+[Buildroot](https://buildroot.org/)  
+[BBB-linux-app](https://github.com/nghiaphamsg/BBB-linux-app/tree/master) 
