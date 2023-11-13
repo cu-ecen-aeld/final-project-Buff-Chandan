@@ -24,4 +24,4 @@ In this project I intend to learn about:
 
 # Block Diagram
 
-
+![AESD PROJ BLK](https://github.com/cu-ecen-aeld/final-project-Buff-Chandan/assets/113010098/26138e51-c1e5-4912-8e8c-7995eb897a3c)
