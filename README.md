@@ -24,4 +24,4 @@ In this project I intend to learn about:
 
 # Block Diagram
 
-![Alternate Text](AESD PROJ BLK.png)
+
